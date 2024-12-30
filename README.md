@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kitkins13
 - 👀 I’m interested in learning to code so I can change my career
-- 🌱 I’m currently learning HTML, CSS, PHP, and C
+- 🌱 I’m currently learning HTML, CSS, PHP, Javascript and C
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I have 2 pets with 3 legs between them s(^‿^)-b
 
